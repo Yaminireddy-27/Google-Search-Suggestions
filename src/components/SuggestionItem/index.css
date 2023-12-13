@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.suggestion-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background-color: transparent;
+  justify-content: space-between;
+  margin-bottom: -30px;
+  margin-top: -20px;
+}
+
+.arrow {
+  height: 30px;
+  width: 30px;
+}
+
+.suggestion {
+  font-size: 25px;
+  font-family: 'Roboto';
+  color: #475569;
+}
+
+.button{
+  border: none;
+  background-color: transparent;
+  outline: none;
+}
